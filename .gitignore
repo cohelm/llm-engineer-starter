@@ -1,0 +1,6 @@
+# Please include any .idea folders if you use Pycharm
+
+# Env Vars
+**/.env
+.idea/
+.DS_Store
