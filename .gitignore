@@ -1,4 +1,5 @@
 # Please include any .idea folders if you use Pycharm
+build/
 __pycache__/
 .venv
 .vscode
