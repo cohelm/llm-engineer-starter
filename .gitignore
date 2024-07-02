@@ -1,4 +1,9 @@
 # Please include any .idea folders if you use Pycharm
+__pycache__/
+.venv
+.vscode
+*.egg
+*.egg-info
 
 # Env Vars
 **/.env
